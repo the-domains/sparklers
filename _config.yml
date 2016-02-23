@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.3960573
+color:
+  saturation: 0.6339316
+  lightness: 0.1612986
+  brandStrength: 0.6630824
+  brandColors:
+    - '#B5AA99'
+    - '#A38901'
+    - '#025C7F'
+    - '#80034B'
+    - '#439902'
+  rhythmicContrast: 0.7361205
+name: Sparklers
