@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sparklers]]></title>
         <description><![CDATA[Sparklers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sparklers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 07:29:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Jul 2016 04:53:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sparklers/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[All stars are in space]]></title>
+            <description><![CDATA[<article><h1>All stars are in space</h1><p>Hello world. This will the beginning of a new adventure. Stay tuned.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8661b6f-af4b-4c4b-8463-169800b9b80b.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8661b6f-af4b-4c4b-8463-169800b9b80b.jpg</link>
+            <guid isPermaLink="false">a41417cc-6907-49cd-bbb3-85409544c12e</guid>
+            <pubDate>Tue, 12 Jul 2016 04:53:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[For a moment there, I almost lost myself.]]></title>
             <description><![CDATA[<article><h1>For a moment there, I almost lost myself.</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f332c08f2bdfbc04d549ea85ba61cbe3863440ae.png"></article>]]></description>
-            <link>undefinedfor-a-moment-there-i-almost-lost-myself/index.html</link>
+            <link>https://thegrid.ai/sparklers/for-a-moment-there-i-almost-lost-myself/index.html</link>
             <guid isPermaLink="false">4d5a014e-47e3-4651-b668-5713c82a3d12</guid>
             <pubDate>Tue, 23 Feb 2016 07:29:43 GMT</pubDate>
         </item>
