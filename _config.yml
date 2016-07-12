@@ -1,14 +1,26 @@
-layout_spectrum: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.3960573
 color:
-  saturation: 0.6339316
-  lightness: 0.1612986
+  saturation: 0.7634408
   brandStrength: 0.6630824
+  lightness: 0.5268817
   brandColors:
     - '#B5AA99'
     - '#A38901'
     - '#025C7F'
     - '#80034B'
     - '#439902'
-  rhythmicContrast: 0.7361205
+  rhythmicContrast: 0.7437276
+layout_spectrum: 1
 name: Sparklers
